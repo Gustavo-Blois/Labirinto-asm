@@ -41,11 +41,11 @@ Utilize-se preferencialmente o Simulador de Processador, disponível em: https:/
 ![Labirinto](https://raw.githubusercontent.com/Guilherme2281/figuras/refs/heads/main/jogo.png?token=GHSAT0AAAAAAC32JO6JVPU6XTOQ2T65EFCOZ3DOSSA)
 
 #### Concluiu o objetivo
-![Tela de ganhador](https://raw.githubusercontent.com/Guilherme2281/fig/refs/heads/main/Objetivo%20com%20concluido.png)
+![Tela de ganhador](https://raw.githubusercontent.com/Guilherme2281/fig/refs/heads/main/Objetivo%20com%20concluido.png | width=300)
 
 ## Processador
 
-- O jogo foi desenvolvido para ser executado no processador ICMC desenvolvido pelo professor Dr. Eduardo do Valle Simões, cuja a arquitetura é apresentada na Figura 1. 
+- O jogo foi desenvolvido para ser executado no processador ICMC desenvolvido pelo professor Dr. Eduardo do Valle Simões, cuja a arquitetura é apresentada na Figura 4. 
 
 - A implementação em linguagem C desse processador está contida na pasta Simulador.
 
@@ -54,7 +54,7 @@ Utilize-se preferencialmente o Simulador de Processador, disponível em: https:/
 
 ![Processador](https://raw.githubusercontent.com/Guilherme2281/fig/refs/heads/main/processador.png)
 
-*Figura 1: Arquitetura do processador ICMC*
+*Figura 4: Arquitetura do processador ICMC*
 
 
 ## Autores
