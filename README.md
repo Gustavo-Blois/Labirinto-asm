@@ -41,7 +41,7 @@ Utilize-se preferencialmente o Simulador de Processador, disponível em: https:/
 ![Labirinto](https://raw.githubusercontent.com/Guilherme2281/figuras/refs/heads/main/jogo.png?token=GHSAT0AAAAAAC32JO6JVPU6XTOQ2T65EFCOZ3DOSSA)
 
 #### Concluiu o objetivo
-![Tela de ganhador](https://raw.githubusercontent.com/Guilherme2281/fig/refs/heads/main/Objetivo%20com%20concluido.png | width=300)
+![Tela de ganhador](https://raw.githubusercontent.com/Guilherme2281/fig/refs/heads/main/Objetivo%20com%20concluido.png)
 
 ## Processador
 
