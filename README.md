@@ -40,7 +40,7 @@ Utilize-se preferencialmente o Simulador de Processador, disponível em: https:/
 
 
 #### Jogo
-![Labirinto](https://raw.githubusercontent.com/Guilherme2281/figuras/refs/heads/main/jogo.png?token=GHSAT0AAAAAAC32JO6JVPU6XTOQ2T65EFCOZ3DOSSA)
+![Labirinto](https://raw.githubusercontent.com/Guilherme2281/figuras/refs/heads/main/jogo.png?token=GHSAT0AAAAAAC32JO6IPC4FHYV6QPUZRP6QZ3DO7JA)
 
 *Figura 2: Labirinto do jogo.*
 
