@@ -35,13 +35,16 @@ Utilize-se preferencialmente o Simulador de Processador, disponível em: https:/
 
 #### Incial
 ![Tela Inicial](https://raw.githubusercontent.com/Guilherme2281/fig/refs/heads/main/Tela%20inicial.png)
+*Figura 1: Tela Inicial.*
 
 
 #### Jogo
 ![Labirinto](https://raw.githubusercontent.com/Guilherme2281/figuras/refs/heads/main/jogo.png?token=GHSAT0AAAAAAC32JO6JVPU6XTOQ2T65EFCOZ3DOSSA)
+*Figura 2: Labirinto do jogo.*
 
 #### Concluiu o objetivo
 ![Tela de ganhador](https://raw.githubusercontent.com/Guilherme2281/fig/refs/heads/main/Objetivo%20com%20concluido.png)
+*Figura 3: Fim de jogo.*
 
 ## Processador
 
@@ -54,7 +57,7 @@ Utilize-se preferencialmente o Simulador de Processador, disponível em: https:/
 
 ![Processador](https://raw.githubusercontent.com/Guilherme2281/fig/refs/heads/main/processador.png)
 
-*Figura 4: Arquitetura do processador ICMC*
+*Figura 4: Arquitetura do processador ICMC.*
 
 
 ## Autores
